@@ -1,0 +1,1 @@
+Python rules the backend. This repo for learning advanced python for backend development.

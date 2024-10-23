@@ -1,0 +1,1 @@
+Python - Variable Annotations  - Static typing is stil important!
