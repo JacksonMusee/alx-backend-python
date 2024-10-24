@@ -7,5 +7,8 @@ from typing import Callable
 
 
 def make_multiplier(multiplier: float) -> Callable[[float], float]:
+    '''
+    Does as required above
+    '''
     result: Callable[[float], float] = lambda x: x * multiplier
     return result
