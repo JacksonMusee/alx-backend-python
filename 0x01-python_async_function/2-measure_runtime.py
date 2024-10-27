@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 '''
 From the previous file, import wait_n into 2-measure_runtime.py.
 
