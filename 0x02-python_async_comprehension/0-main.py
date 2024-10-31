@@ -12,3 +12,5 @@ async def print_yielded_values():
     print(result)
 
 asyncio.run(print_yielded_values())
+
+print(async_generator.__annotations__)
