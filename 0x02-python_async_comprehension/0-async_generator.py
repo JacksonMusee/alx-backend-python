@@ -8,9 +8,10 @@ The coroutine will loop 10 times, each time asynchronously wait
 
 import random
 import asyncio
+from typing import Any
 
 
-async def async_generator():
+async def async_generator() -> Any:
     '''
     Does as rquired above
     '''
